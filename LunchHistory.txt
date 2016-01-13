@@ -1,0 +1,36 @@
+Quizno's
+5
+Aroma
+5
+Impostos
+7
+Newport Mall
+5
+Qdobas
+7
+McDonalds
+5
+Subway
+7
+Johnny Rockets
+5
+Spa Diner
+7
+Biaggio's
+6
+Chicken Rib Crib
+1
+Philly's Cheese Steaks
+1
+Giovanni's Pizza
+1
+La Isla (CUBAN B)
+1
+Blimpies
+1
+Satay
+1
+Vito's
+1
+Boston Market
+1
